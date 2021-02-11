@@ -1,5 +1,4 @@
 import React from "react";
-import { FieldElement } from "react-hook-form";
 
 // TODO: inputRef のタイプをつける
 // react hook form の register だけを受け取れるように
